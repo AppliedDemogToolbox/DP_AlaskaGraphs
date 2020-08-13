@@ -1,6 +1,6 @@
 # DP_AlaskaGraphs
 From David Howell, State Demographer, Alaska Department of Labor and Workforce Development (david.howell@alaska.gov): 
-Graphs and table of 2010 Census published data compared to 2010 Census data with Differential Privacy applied for demonstration, October 2019 and July 2020 releases
+Graphs and table of 2010 Census published data compared to 2010 Census data with Differential Privacy applied for demonstration, October 2019 and July 2020 tabulations
 
 -----
 Notes with July 2020: 
