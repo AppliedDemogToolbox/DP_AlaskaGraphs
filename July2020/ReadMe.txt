@@ -2,10 +2,10 @@ From David Howell (State Demographer, Alaska Department of Labor and Workforce D
 U.S. Census Bureau data tabulated in July 2020 from IPUMS NHGIS, University of Minnesota (https://www.nhgis.org/privacy-protected-demonstration-data)
 
 In the file names: 
-BCA is county-equivalent (borough or census area in Alaska) 
-AIAN is American Indian or Alaska Native
-NHOPI is Native Hawaiian or Other Pacific Islander
-2+ is Two or More Races
+"BCA" is county-equivalent (borough or census area in Alaska) 
+"AIAN" is American Indian or Alaska Native
+"NHOPI" is Native Hawaiian or Other Pacific Islander
+"2+" is Two or More Races
 
 In the files: 
 "PPMF" is the July 2020-tabulated demonstration data with Differential Privacy, 
